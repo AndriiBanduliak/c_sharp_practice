@@ -1,0 +1,15 @@
+D:\GeekBrains\AI_GB\c#\pract\3\1\bin\Debug\net7.0\1.exe
+D:\GeekBrains\AI_GB\c#\pract\3\1\bin\Debug\net7.0\1.deps.json
+D:\GeekBrains\AI_GB\c#\pract\3\1\bin\Debug\net7.0\1.runtimeconfig.json
+D:\GeekBrains\AI_GB\c#\pract\3\1\bin\Debug\net7.0\1.dll
+D:\GeekBrains\AI_GB\c#\pract\3\1\bin\Debug\net7.0\1.pdb
+D:\GeekBrains\AI_GB\c#\pract\3\1\obj\Debug\net7.0\1.csproj.AssemblyReference.cache
+D:\GeekBrains\AI_GB\c#\pract\3\1\obj\Debug\net7.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\AI_GB\c#\pract\3\1\obj\Debug\net7.0\1.AssemblyInfoInputs.cache
+D:\GeekBrains\AI_GB\c#\pract\3\1\obj\Debug\net7.0\1.AssemblyInfo.cs
+D:\GeekBrains\AI_GB\c#\pract\3\1\obj\Debug\net7.0\1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\AI_GB\c#\pract\3\1\obj\Debug\net7.0\1.dll
+D:\GeekBrains\AI_GB\c#\pract\3\1\obj\Debug\net7.0\refint\1.dll
+D:\GeekBrains\AI_GB\c#\pract\3\1\obj\Debug\net7.0\1.pdb
+D:\GeekBrains\AI_GB\c#\pract\3\1\obj\Debug\net7.0\1.genruntimeconfig.cache
+D:\GeekBrains\AI_GB\c#\pract\3\1\obj\Debug\net7.0\ref\1.dll
